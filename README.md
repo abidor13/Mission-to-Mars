@@ -8,13 +8,15 @@
 
 ### The websites below were scraped in order to get data for our website:
 
-    * News: [link text itself] (https://mars.nasa.gov)
-    * Mars Facts: [link text itself] (https://space-facts.com/mars)
+    * News: [link_news](https://mars.nasa.gov)
+    
+    * Mars Facts: [link_marsfacts](https://space-facts.com/mars)
 
-    * Weather: [link text itself] (https://space-facts.com/mars)
+    * Weather: [link_weather](https://space-facts.com/mars)
 
-    * Hemispheres: [link text itself] (https://marshemispheres.com)
+    * Hemispheres: [link_hemispheres](https://marshemispheres.com)
 
+    
 ## Results:
 
 ### We Were able to create our website our index.html file.
