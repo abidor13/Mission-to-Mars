@@ -8,13 +8,13 @@
 
 ### The websites below were scraped in order to get data for our website:
 
-    * News: [link_news](https://mars.nasa.gov)
+    * News - [link_news](https://mars.nasa.gov)
     
-    * Mars Facts: [link_marsfacts](https://space-facts.com/mars)
+    * Mars Facts - [link_marsfacts](https://space-facts.com/mars)
 
-    * Weather: [link_weather](https://space-facts.com/mars)
+    * Weather - [link_weather](https://space-facts.com/mars)
 
-    * Hemispheres: [link_hemispheres](https://marshemispheres.com)
+    * Hemispheres - [link_hemispheres](https://marshemispheres.com)
 
     
 ## Results:
